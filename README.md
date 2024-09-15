@@ -8,6 +8,4 @@ A detailed breakdown of the SANS BootUp CTF competition challenges, solutions, a
 - **Steganography**: Extracting hidden information from image files using tools like steghide, binwalk, and exiftool.
 - **Buffer Overflow**: Exploiting vulnerabilities through pattern generation and EIP analysis.
 - **File Analysis**: Uncovering hidden data using binwalk, strings, and other analysis tools.
-git add README.md
-git commit -m "Added cybersecurity skills section to README.md"
-git push origin main
+
